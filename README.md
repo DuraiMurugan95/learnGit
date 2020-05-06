@@ -1,2 +1,2 @@
 # learnGit
-Just to learn jit concept
+Just to learn Git Concept
